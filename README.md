@@ -1,4 +1,4 @@
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="home screen gif" />
 # Introduction
 Hello 👋, I'm Paramveer Singh a 3rd year student at Maharishi markandeshwar deemed to be University, I learned App development, Python, Web devepment etc. Always supporting and guiding like minded people in community with my fair share of knowledge in these domains !! A fun and  knowledgeable experience.
 
